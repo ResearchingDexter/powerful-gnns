@@ -19,7 +19,7 @@ url={https://openreview.net/forum?id=ryGs6iA5Km},
 ```
 
 ## Installation
-Install PyTorch following the instuctions on the [official website] (https://pytorch.org/ "pytorch") . The code has been tested over PyTorch 0.4.1 and 1.0.0 versions.
+Install PyTorch following the instuctions on the [official website](https://pytorch.org/ "pytorch") . The code has been tested over PyTorch 0.4.1 and 1.0.0 versions.
 
 Then install the other dependencies.
 ```
